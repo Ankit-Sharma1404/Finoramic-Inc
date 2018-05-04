@@ -38,4 +38,8 @@ A partially filled sudoku which is valid.
 
  Note:
 A valid Sudoku board (partially filled) is not necessarily solvable. Only the filled cells need to be validated.
-Return 0 / 1 ( 0 for false, 1 for true ) for this problem
+Return 0 / 1 ( 0 for false, 1 for true ) for this problem.
+
+
+<h1> Section - 2</h1>
+<h3>We need to build a tool to automatically download python packages.</h3>
